@@ -1,6 +1,7 @@
 # Hi there 👋, I am Sasanka Vikum
 <h3 align="center">undergrade | web designer | programmer </h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sasankavikum&label=Profile%20views&color=0e75b6&style=flat" alt="Sasankavikum" /> </p>
 
 - 🔭 I’m currently working on ...
@@ -11,7 +12,7 @@
 - 📫 How to reach me: **sasavikum@gmail.com**
 - ⚡ Fun fact: Travelling 🧗 
 <br>
-### Connect with me :
+<h3> Connect with me : </h3>
 
 <p align="left">
 <a href="https://dev.to/sasankavikum" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="SasankaVikum" height="30" width="40" /></a>
