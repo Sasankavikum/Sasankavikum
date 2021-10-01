@@ -1,8 +1,7 @@
 # Hi there 👋, I am Sasanka Vikum
 <h3 align="center">undergrade | web designer | programmer </h3>
 
-
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sasankavikum&label=Profile%20views&color=0e75b6&style=flat" alt="Sasankavikum" /> </p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning **Information Technology**
@@ -11,7 +10,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about **C, Java, Python**
 - 📫 How to reach me: **sasavikum@gmail.com**
 - ⚡ Fun fact: Travelling 🧗 
-
+<br>
 ### Connect with me :
 
 <p align="left">
@@ -23,7 +22,8 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/saasaboy_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
 <a href="https://medium.com/@sasavikum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" /></a>
 </p>
-
+<br><br>
+<h3 align="left">Languages and Tools:</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sasankavikum&show_icons=true&locale=en&layout=compact" alt="Sasankavikum" /></p>
 
