@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sasankavikum&label=Profile%20views&color=0e75b6&style=flat" alt="sasankavikum" /> </p>
 
-- 🔭 I’m currently working on [Red Cross System](https://github.com/SLIIT-FacultyOfComputing/itp_project-kdy_2021_we01.git)
+- 🔭 I’m currently working on [Travel-Blog](https://github.com/Sasankavikum/Travel-Blog)
 
 - 🌱 I’m currently learning **Frameworks, ReactJS, NodeJS**
 
