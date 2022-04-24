@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sasankavikum&label=Profile%20views&color=0e75b6&style=flat" alt="sasankavikum" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sasankavikum" alt="sasankavikum" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/sasavikum" target="blank"><img src="https://img.shields.io/twitter/follow/sasavikum?logo=twitter&style=for-the-badge" alt="sasavikum" /></a> </p>
 
 - 🔭 I’m currently working on [Vaccination Support System](https://github.com/Sasankavikum/Vaccination)
