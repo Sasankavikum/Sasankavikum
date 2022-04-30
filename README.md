@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Vaccination Support System](https://github.com/Sasankavikum/Vaccination)
 
-- 🌱 I’m currently learning **Frameworks, ReactJS, NodeJS**
+- 🌱 I’m currently learning **Frameworks, ReactJS, NodeJS, Flutter**
 
 - 👯 I’m looking to collaborate on **Content creators**
 
