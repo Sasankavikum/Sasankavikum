@@ -1,15 +1,15 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>  
   
 
-### <div align="center">I'm Sasanka, a full-time full-stack Developer - Intern 👨‍💻 working remotely since 2019 🚀</div>  
+### <div align="center">I'm Sasanka Vitharana, Full-Stack Software Engineer 👨‍💻 </div>  
   
 
 - 🔭 I’m currently working on [VITALHUB INNOVATIONS LAB](https://www.vitalhub.lk/)  
   
 
-- 🌱 I’m currently learning Frameworks, ReactJS, NodeJS, Flutter  
+- 🌱 I’m currently learning Frameworks, ReactJS, NodeJS, Angular  
   
 
 - ❓ Ask me about anything related to HTML, CSS, MySQL, Java, Flutter  
