@@ -4,7 +4,7 @@
   
 <br/>
 
-- 🔭 I’m currently working on [Pharmacy Website]([https://www.vitalhub.lk/](https://github.com/Sasankavikum/Pharmacy-Web))  
+- 🔭 I’m currently working on <a href="https://github.com/Sasankavikum/Pharmacy-Web" target="_blank">Pharmacy Website</a>
   
 
 - 🌱 I’m currently learning Frameworks, ReactJS, NodeJS, Angular  
