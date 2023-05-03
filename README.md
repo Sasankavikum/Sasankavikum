@@ -13,7 +13,10 @@
 - ❓ Ask me about anything related to HTML, CSS, MySQL, Java, Flutter  
   
 
-- 👯 I’m looking to collaborate on Content creators  
+- 👯 I’m looking to collaborate on Content creators 
+
+
+- ✍️ I'm regularly write articles on <a href="https://medium.com/@sasavikum" target="_blank">Medium</a>
   
 
 - ⚡ Fun fact: Traveling 🧗🏻‍♀️  
